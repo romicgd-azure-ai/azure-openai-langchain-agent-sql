@@ -1,4 +1,4 @@
-# Using OpenAI and langchain with Azure Cognitive Search Vector Search and Azure Form Recognizer
+# Using OpenAI and langchain to query Microsoft SQL and return structured output
 
 This project demonstrates how to use langchain Agents and OpenAI to query Microsoft SQL and return structured output. 
 
